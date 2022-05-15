@@ -4,6 +4,7 @@
 
 * {
     background-color: #FB6B6B;
+    box-sizing: border-box;
 }
 
 
@@ -121,6 +122,56 @@
         background-color: #FFFFD4;
         ;
     }
+    .questionMax{
+        display: flex;
+        height: 131px;
+        width: 475px;
+        left: -181px;
+        top: -2933px;
+        border-radius: 5px;
+        padding-top: 15px;
+        padding-left: 8px;
+        font-family: Recursive;
 
+    }
+    
+    .iconMax{
+        width: 20px;
+        height: 15px;
+        margin-left: 340px;
+        margin-top: 90px;
+    }
+
+    .miniButton{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 52px;
+        width: 142px;
+        left: 308px;
+        top: -2845.165771484375px;
+        border-radius: 5px;
+        margin-top: 57px;
+        margin-right: 9px;
+        color:white;
+        font-family: Recursive;
+    
+    }
+
+    .marginlB1{
+        margin-left: -86px;
+    }
+
+    .red{
+        background-color: #D70900;
+    }
+
+    .orange{
+background-color: orange;
+    }
+
+    .green{
+        background-color: green;
+    }
 	
 }

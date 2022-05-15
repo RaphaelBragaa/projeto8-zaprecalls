@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Transition(){
+export default function Transition(props){
 
 const [hidden1, setHidden1] = React.useState("tela1")
 const [hidden2, setHidden2] = React.useState("hidden")
